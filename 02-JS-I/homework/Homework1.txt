@@ -1,0 +1,9 @@
+Explicaciones sobre los siguientes conceptos:
+
+1- VARIABLES: es una cosa o elemento que tiene un nombre y contiene un valor el cual se guarda en un lugar para ser utilizado más tarde.
+2- STRINGS: son variables para representar texto que se encuentran definidos entre comillas (simples o dobles). Por ejemplo, a la variable perro le asigno el valor de "Max". Quedaría así: var perro="Max".
+3- FUNCIONES: nos permiten dividir el trabajo que hace un programa en tareas más chicas separadas de la parte principal.
+    Argumentos: son los valores que pasamos a una función.
+    Return: se utiliza para devolver el valor de una función y también para dejar de ejecutar una función.
+4- DECLARACIONES IF: ejecuta una sentancia cuando una condición que se especifica es verdadera.
+5- VALORES BOOLEANOS: un valor booleano representa un valor de verdad, que puede ser TRUE cuando es verdadero y FALSE cuando es falso. Solamente puede tomar uno de sos dos valores.
