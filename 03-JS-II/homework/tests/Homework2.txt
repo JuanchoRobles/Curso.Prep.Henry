@@ -1,0 +1,9 @@
+                        HOMEWORK JAVASCRIPT II
+
+1- FOR: un bucle for se utiliza para repetir una sentencia un cierto número de veces hasta que la declaración sea false.
+
+2- OPERADORES LÓGICOS:
+        &&: es el operador "Y". Sirve para evaluar dos expresiones y devolverá verdadero si AMBAS expresiones son true. Si uno de ellos es false, entonces devolverá un false.
+        ||: corresponde al operador "O". Devolverá true si uno o ambas de las expresiones es true. Lo mismo ocurrirá si devuelve false.
+        !:  corresponde al operador "NOT" o "NO". Cuando se coloca éste símbolo, devolverá el valor booleano (true o false) opuesto de lo que se le pasa.
+
