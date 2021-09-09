@@ -1,0 +1,2 @@
+EXPLICACIÓN DE ARRAY: es una colección de datos ubicados dentro de una lista las cuales se guardan bajo un mismo nombre.
+Se puede acceder a dichos datos de manera independiente, cómo también eliminar existentes y agregar nuevos.
