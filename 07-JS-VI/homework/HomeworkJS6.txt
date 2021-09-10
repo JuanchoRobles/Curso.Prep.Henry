@@ -1,0 +1,3 @@
+EXPLICACIÓN DE CALLBACK: es una función que se pasa a otra función como un argumento y luego la ejecuta.
+Es importante saber que cuando pasamos un callback solo pasamos la definición de la función y no la ejecutamos en el parámetro.
+De esa manera, la función contenedora elige cuando quiere ejecutar el callback.
