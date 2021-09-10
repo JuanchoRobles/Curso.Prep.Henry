@@ -1,0 +1,9 @@
+EXPLICACIONES JAVASCRIPT IV:
+
+1- OBJETOS: contienen mucha información de uno sola cosa. Ejemplo: un objeto 'persona' puede tener información como edad, altura, nombre en ella.
+            Los objetos tienen claves (ejemplo edad) y values, los cuales son los valores que se colocan dentro de dichas claves.
+2- PROPIEDADES: son asociaciones entre una clave y un valor.
+3- MÉTODOS: son las funciones guardadas dentro de un Objeto.
+4- BUCLE for_in: se mueve o recorre las propiedades de un objeto en un orden arbitrario.
+5- NOTACIÓN DE PUNTOS vs NOTACIÓN DE CORCHETES: la notación de puntos solo funciona con nombres de propiedades que son válidos y cualquier palabra clave reservada.
+                                                la notación de corchetes espera una expresión que se evalúa como una cadena de caracteres (string).
