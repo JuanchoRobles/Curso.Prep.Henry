@@ -1,0 +1,4 @@
+EXPLICACIÓN DE LOS SIGUIENTES CONCEPTOS:
+
+1- PROTOTYPE: es un mecanismo mediante el cual los objetos heredan características entre sí.
+2- CONSTRUCTORS (CLASES); el método constructor se utiliza para crear e inicializar un objeto creado a partir de una clase.
